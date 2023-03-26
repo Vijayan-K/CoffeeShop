@@ -1,0 +1,33 @@
+*{
+	box-sizing:border-box;
+    }
+    body{
+    background-image:url(images/1HD.jpg);
+    background-repeat:no-repeat;
+    }
+   
+    .cont1{
+    color:white;
+    height:500px;
+    width:538.5px;
+    float:left;
+    font-size: 24px;
+    }
+    .cont2{ 
+    height:500px;
+    width:538.5px;
+    float:right;
+    }
+    input:hover{
+    background-color:gray;
+    color:black;
+    }
+    textarea:hover{
+    background-color:gray;
+    }
+    h6, h4 a{
+        color: white !important;
+    }
+    h6,h4 a:hover{
+        color: greenyellow;
+    }
